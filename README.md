@@ -1,2 +1,1 @@
-# twitter-bot
-Belajar membuat twitter bot dengan tweepy di kelas FGA big data
+Terlebih dahulu install "tweepy" melalui pip
